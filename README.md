@@ -20,9 +20,11 @@ Import the Database with the sql file
 2. Install the dependencies:
 
     Run the Command
+   
     npm install
 
-3. Run the project:
+4. Run the project:
 
     Run the Command
+   
     node index.js
